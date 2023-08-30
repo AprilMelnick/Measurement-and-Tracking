@@ -2,7 +2,7 @@
 
 $~~~~~~~~~~$
 
-##Project Desctiption
+## Project Description
 
 Using HTML templates from WBS Coding School, I deployed this ecommerce site, built a tracking plan and inserted the appropriate scripts successfully connecting it to Google Tag Manger and Google Analytics.
 
