@@ -18,7 +18,7 @@ $~~~~~~~~~~$
 
 ## Project 1
 
-The first - an ecommerce site - I built a tracking plan and inserted the appropriate scripts successfully connecting it to Google Tag Manger and Google Analytics.
+The first - an ecommerce site - I built a tracking plan and inserted the appropriate scripts successfully connecting it to Google Tag Manger and Google Analytics. You can find the tracking plan in the repository above.
 
 Throughout the course, additional tags were added for Google Optimize, Hubspot, Hotjar and Mouseflow.
 $~~~~~~~~~~$
